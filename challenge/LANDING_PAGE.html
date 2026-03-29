@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LeadQualifizierung für Coaches | Solo AI</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', system-ui, sans-serif; line-height: 1.6; color: #333; }
+        .hero { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 80px 20px; text-align: center; }
+        .hero h1 { font-size: 2.5rem; margin-bottom: 20px; }
+        .hero p { font-size: 1.2rem; opacity: 0.9; }
+        .pain { background: #fff3cd; padding: 40px 20px; text-align: center; }
+        .pain h2 { color: #856404; margin-bottom: 20px; }
+        .pain-points { display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px; }
+        .pain-point { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); max-width: 250px; }
+        .solution { background: #d4edda; padding: 60px 20px; text-align: center; }
+        .solution h2 { color: #155724; margin-bottom: 30px; }
+        .steps { display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; }
+        .step { background: white; padding: 30px; border-radius: 8px; max-width: 200px; }
+        .step-num { background: #28a745; color: white; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 15px; font-weight: bold; }
+        .pricing { padding: 60px 20px; text-align: center; background: #f8f9fa; }
+        .pricing h2 { margin-bottom: 30px; }
+        .plans { display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; }
+        .plan { background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); max-width: 280px; width: 100%; }
+        .plan.featured { border: 3px solid #667eea; transform: scale(1.05); }
+        .plan h3 { font-size: 1.2rem; margin-bottom: 10px; }
+        .plan .price { font-size: 2rem; font-weight: bold; color: #667eea; margin: 15px 0; }
+        .plan ul { list-style: none; text-align: left; margin: 20px 0; }
+        .plan li { padding: 8px 0; border-bottom: 1px solid #eee; }
+        .plan li::before { content: "✓ "; color: #28a745; }
+        .cta { background: #333; color: white; padding: 60px 20px; text-align: center; }
+        .cta button { background: #667eea; color: white; border: none; padding: 15px 40px; font-size: 1.1rem; border-radius: 5px; cursor: pointer; margin-top: 20px; }
+        .cta button:hover { background: #764ba2; }
+        footer { background: #222; color: #888; padding: 20px; text-align: center; font-size: 0.9rem; }
+        @media (max-width: 600px) {
+            .hero h1 { font-size: 1.8rem; }
+            .plan.featured { transform: scale(1); }
+        }
+    </style>
+</head>
+<body>
+
+<section class="hero">
+    <h1>🔥 Qualifiziere deine Leads in 24 Stunden</h1>
+    <p>Der KI-Agent, der automatisch nur passende Kunden zu dir bringt</p>
+</section>
+
+<section class="pain">
+    <h2>Das kennen wir doch alle...</h2>
+    <div class="pain-points">
+        <div class="pain-point">
+            <strong>😤 70% sind unqualifiziert</strong>
+            <p>Du investierst Stunden in Leads, die am Ende doch nicht kaufen.</p>
+        </div>
+        <div class="pain-point">
+            <strong>⏰ Zeitverschwendung</strong>
+            <p>Erstgespräche mit Leuten, die sich kein Coaching leisten können.</p>
+        </div>
+        <div class="pain-point">
+            <strong>📉 Follow-up Chaos</strong>
+            <p>Die richtigen Leads gehen verloren, weil du keine Zeit hast.</p>
+        </div>
+    </div>
+</section>
+
+<section class="solution">
+    <h2>So funktioniert's</h2>
+    <div class="steps">
+        <div class="step">
+            <div class="step-num">1</div>
+            <strong>Lead meldet sich</strong>
+            <p>Interessent schreibt dir oder füllt ein Formular aus.</p>
+        </div>
+        <div class="step">
+            <div class="step-num">2</div>
+            <strong>KI qualifiziert</strong>
+            <p>Solo stellt 5-7 Fragen und scort den Lead automatisch.</p>
+        </div>
+        <div class="step">
+            <div class="step-num">3</div>
+            <strong>Du buchst nur Qualifizierte</strong>
+            <p>Nur Leads mit Score 7+ bekommen einen Booking-Link.</p>
+        </div>
+    </div>
+</section>
+
+<section class="pricing">
+    <h2>Wähle dein Paket</h2>
+    <div class="plans">
+        <div class="plan">
+            <h3>Starter</h3>
+            <div class="price">99€<span>/Monat</span></div>
+            <ul>
+                <li>50 Leads/Monat</li>
+                <li>Grund-Qualifizierung</li>
+                <li>E-Mail Support</li>
+            </ul>
+            <button>Jetzt starten</button>
+        </div>
+        <div class="plan featured">
+            <h3>Professional</h3>
+            <div class="price">199€<span>/Monat</span></div>
+            <ul>
+                <li>200 Leads/Monat</li>
+                <li>CRM-Export</li>
+                <li>Follow-Up Sequenz</li>
+                <li>Priority Support</li>
+            </ul>
+            <button>Jetzt starten</button>
+        </div>
+        <div class="plan">
+            <h3>Agency</h3>
+            <div class="price">399€<span>/Monat</span></div>
+            <ul>
+                <li>Unlimited Leads</li>
+                <li>Whitelabel</li>
+                <li>API-Zugang</li>
+                <li>Dedicated Account Manager</li>
+            </ul>
+            <button>Jetzt starten</button>
+        </div>
+    </div>
+</section>
+
+<section class="cta">
+    <h2>🎯 Teste jetzt kostenlos</h2>
+    <p>Die ersten 5 Coaches bekommen 1 Monat gratis.</p>
+    <button>Demo buchen</button>
+</section>
+
+<footer>
+    <p>Solo AI Lead Agent | Ein Experiment von OpenClaw</p>
+    <p>Kontakt: solo@example.com</p>
+</footer>
+
+</body>
+</html>
