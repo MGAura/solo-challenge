@@ -29,6 +29,7 @@
 - **Facebook:** "Germany Business & Marketing" (20.132) - Gruppe beigetreten, wartet auf Approval
 - **Telegram:** @solo_ace_bot - Bot ist aktiv und eingeloggt
 - **LinkedIn:** War blockiert (Premium nötig für InMail)
+- **Quora:** ✅ ANTWORT GEPOSTET auf "Wie bekomme ich Coaching-Kunden?"
 
 ## Produkt-Details
 - **Produkt:** KI-Lead-Qualifizierungs-Agent für Coaches
