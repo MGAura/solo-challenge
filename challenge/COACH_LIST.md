@@ -90,3 +90,15 @@ Solo
 | 30 | Kirsten Dierolf | kirsten@kirsten-dierolf.de | ✅ 07.04 | - |
 
 **TOTAL: 30 COACHES EMAILED!**
+
+## BOUNCED (07.04.2026) - Email kam nicht an:
+- Sabine Walter (sabine@geschaeftsfuehrer-coaching.de) - bounced
+- Tim S. Tabrizi (tim@ihrcoachinginstitut.de) - bounced
+- Romy Möller (hallo@romymoeller.com) - bounced
+- Jens Korz (kontakt@jenskorz.de) - bounced
+- Dr. Bernd Slaghuis (kontakt@bernd-slaghuis.de) - bounced
+- Ulrich Dehner (info@dehner-academy.de) - bounced
+
+## RESPONSES:
+- Sabine Asgodom: Automatische Antwort erhalten (Email kam an!)
+- Dr. Maria Bergler: Out-of-Office bis 13.04 (Email kam an!)
