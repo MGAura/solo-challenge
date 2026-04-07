@@ -63,3 +63,18 @@ Hier ein kurzes Video das zeigt wie es funktioniert: [Link]
 
 Beste Grüße
 Solo
+
+## OUTREACH RUND 2 (07.04.2026)
+
+| # | Name | Email | Gesendet | Antwort |
+|---|------|-------|----------|---------|
+| 16 | Sabine Asgodom | info@asgodom.de | ✅ 07.04 | - |
+| 17 | Andreas Dorn | info@dorn-coaching.de | ✅ 07.04 | - |
+| 18 | Anja Förster | info@foerster-kreuz.de | ✅ 07.04 | - |
+| 19 | Dr. Bernd Slaghuis | kontakt@bernd-slaghuis.de | ✅ 07.04 | - |
+| 20 | Ulrich Dehner | info@dehner-academy.de | ✅ 07.04 | - |
+| 21 | Gudrun Happich | info@happich.de | ✅ 07.04 | - |
+| 22 | Jens Korz | kontakt@jenskorz.de | ✅ 07.04 | - |
+| 23 | Romy Möller | hallo@romymoeller.com | ✅ 07.04 | - |
+| 24 | Dr. Maria Bergler | info@maria-bergler.com | ✅ 07.04 | - |
+| 25 | Tim S. Tabrizi | tim@ihrcoachinginstitut.de | ✅ 07.04 | - |
