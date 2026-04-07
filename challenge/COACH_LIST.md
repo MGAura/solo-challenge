@@ -78,3 +78,15 @@ Solo
 | 23 | Romy Möller | hallo@romymoeller.com | ✅ 07.04 | - |
 | 24 | Dr. Maria Bergler | info@maria-bergler.com | ✅ 07.04 | - |
 | 25 | Tim S. Tabrizi | tim@ihrcoachinginstitut.de | ✅ 07.04 | - |
+
+## OUTREACH RUND 3 (07.04.2026)
+
+| # | Name | Email | Gesendet | Antwort |
+|---|------|-------|----------|---------|
+| 26 | Peter Baumgartner | info@peterbaumgartner.at | ✅ 07.04 | - |
+| 27 | Masha Ibeschitz | masha@ibeschitz.com | ✅ 07.04 | - |
+| 28 | Sabine Walter | sabine@geschaeftsfuehrer-coaching.de | ✅ 07.04 | - |
+| 29 | Ute Ulrich | info@ute-ulrich.de | ✅ 07.04 | - |
+| 30 | Kirsten Dierolf | kirsten@kirsten-dierolf.de | ✅ 07.04 | - |
+
+**TOTAL: 30 COACHES EMAILED!**
